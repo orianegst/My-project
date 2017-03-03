@@ -1,0 +1,48 @@
+h1
+{
+font-size: 5em;
+text-align: center;
+font-family: Castal Street;
+color: #323433;
+text-decoration: underline;
+}
+
+p
+{
+margin-left: 300px;
+font-family: Precursive;
+text-align: center;
+font-size: 3em;
+}
+
+nav
+{
+  margin-right: 85%;
+  border: 3px #00A6C7 solid;
+  border-radius: 30px/20px;
+  background-color: #00A6C7;
+  box-shadow: 2px 2px 23px black;
+
+}
+
+
+.nav li
+{
+  margin-bottom: 18px;
+  font-size:2em;
+}
+
+a
+{
+  color: white;
+}
+
+body
+{
+  background-color: #DAEDEB;
+}
+
+img
+{
+margin-left: 1350px;
+}

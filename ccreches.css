@@ -1,0 +1,48 @@
+body
+{
+  background-color:#E9C2E0;
+}
+
+h1
+{
+  font-family : Castal Street ;
+  font-size : 5em ;
+  text-align: center;
+  text-decoration: underline;
+
+}
+
+iframe
+{
+  margin-left: 24%;
+  margin-top: -10%;
+}
+
+nav
+{
+  margin-right: 85%;
+  border: 3px #00A6C7 solid;
+  border-radius: 30px/20px;
+  background-color: #00A6C7;
+  box-shadow: 2px 2px 23px black;
+
+}
+
+h2
+{
+  margin-left: 8%;
+  text-decoration: underline;
+  color:white;
+
+}
+
+a
+{
+  color:white;
+}
+
+.nav li
+{
+  margin-bottom: 18px;
+  font-size:2em;
+}

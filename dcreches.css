@@ -1,0 +1,46 @@
+h1
+{
+font-size: 5em;
+text-align: center;
+font-family: Castal Street;
+color: #323433;
+text-decoration: underline;
+}
+
+p
+{
+font-family: Precursive;
+text-align: justify;;
+font-size: 2em;
+}
+
+.nav li
+{
+font-size: 2em;
+margin-bottom: 18px;
+}
+
+nav
+{
+  margin-right: 85%;
+  border: 3px #00A6C7 solid;
+  border-radius: 30px/20px;
+  background-color: #00A6C7;
+  box-shadow: 2px 2px 23px black;
+}
+
+a
+{
+  color: white;
+}
+
+body
+{
+  background-color: #E9C2E0;
+}
+
+section
+{
+  margin-left:20%;
+  margin-top: -10%;
+}
